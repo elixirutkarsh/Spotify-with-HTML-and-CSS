@@ -15,6 +15,7 @@ body{
     width: 300px;
     border-radius: 1rem;
     margin-right: 0.5rem;
+    overflow: auto ;
 }
 .main_center{
     background-color: #121212;
